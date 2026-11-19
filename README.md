@@ -12,7 +12,10 @@ A curated portfolio of WordPress websites developed locally using XAMPP and buil
 |---:|---|---|---|
 | 01 | Orionis | [orionis.in](https://www.orionis.in/) | [View project](projects/01-orionis/README.md) |
 | 02 | Viva Constructions | [vivaconstructions.in](https://www.vivaconstructions.in/) | [View project](projects/02-viva-constructions/README.md) |
-| 03 | Evon It Solution | [evonitsolution.com](https://www.evonitsolution.com/) | [View project](projects/03-viva-constructions/README.md) |
+| 03 | Evon It Solution | [evonitsolution.com](https://www.evonitsolution.com/) | [View project](projects/03-Evon-It-Solution/README.md) |
+| 04 | Ajit Patil Associates | [ajitvpatilassociates.com](https://ajitvpatilassociates.com/) | [View project](projects/04-Ajit-Patil-Associates/README.md) |
+| 05 | The Leaf Chap | [theleafchap.com](https://theleafchap.com/) | [View project](projects/05-The-Leaf-Chap/README.md) |
+| 06 | Parth Builders | [www.parthbuilders.in](https://www.parthbuilders.in/) | [View project](projects/06-Parth-Builders/README.md) |
 
 ## Technologies
 
