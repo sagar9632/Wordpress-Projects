@@ -12,7 +12,7 @@ A curated portfolio of WordPress websites developed locally using XAMPP and buil
 |---:|---|---|---|
 | 01 | Orionis | [orionis.in](https://www.orionis.in/) | [View project](projects/01-orionis/README.md) |
 | 02 | Viva Constructions | [vivaconstructions.in](https://www.vivaconstructions.in/) | [View project](projects/02-viva-constructions/README.md) |
-| 03–16 | Additional projects | Details pending | Add project details |
+| 03 | Evon It Solution | [evonitsolution.com](https://www.evonitsolution.com/) | [View project](projects/03-viva-constructions/README.md) |
 
 ## Technologies
 
